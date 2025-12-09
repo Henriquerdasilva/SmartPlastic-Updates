@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/Henriquerdasilva/SmartPlastic-Updates/releases/download/v1.0.0/SmartPlasticV4_Setup.exe",
+  "fileSize": 138000000,
+  "sha256": "",
+  "releaseDate": "2025-12-09T00:00:00Z",
+  "releaseNotes": "Versão inicial",
+  "mandatory": false,
+  "minVersionToUpdate": "0.0.0",
+  "fileName": "SmartPlasticV4_Setup.exe"
+}
