@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/Henriquerdasilva/SmartPlastic-Updates/releases/download/v1.0.0/SmartPlasticV4.exe",
-  "fileSize": 138412032,
-  "sha256": "4e1af47b90db1cf5c9dd164b093ac",
-  "releaseDate": "2025-12-09T00:00:00Z",
-  "releaseNotes": "Versão 1.0.0 - Versão Inicial\n\n• Dashboard de máquinas\n• Cadastro de materiais e receitas\n• Ordens de produção\n• Envio via FTP",
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/Henriquerdasilva/SmartPlastic-Updates/releases/download/v1.1.0/SmartPlasticSetup.msi",
+  "fileSize": 59746304,
+  "sha256": "a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456",
+  "releaseDate": "2025-01-15T10:00:00Z",
+  "releaseNotes": "## Versão 1.1.0\n\n### Novidades\n- Sistema de auto-update implementado\n- Melhorias de performance\n\n### Correções\n- Correção de bugs na busca de materiais\n- Melhorias na interface do usuário",
   "mandatory": false,
   "minVersionToUpdate": "0.0.0",
-  "fileName": "SmartPlasticV4.exe"
+  "fileName": "SmartPlasticSetup.msi"
 }
