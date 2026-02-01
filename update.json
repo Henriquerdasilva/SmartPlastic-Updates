@@ -1,11 +1,18 @@
-{
-  "version": "1.3.0",
-  "downloadUrl": "https://github.com/Henriquerdasilva/SmartPlastic-Updates/releases/download/v1.3.0/SmartPlasticSetup.msi",
-  "fileSize": 59736064,
-  "sha256": "2dfa9ab4d5e54a5a178ca011b87c4fa0771d56adf5e3bb544ca9b673e3bb036c",
-  "releaseDate": "2025-01-22T12:30:00Z",
-  "releaseNotes": "## Versão 1.3.0\n\n### Novidades\n- Sistema de auto-update implementado\n- Melhorias de performance\n- Suporte a MSI installer\n- Sincronização de versões WiX\n\n### Correções\n- Correção de bugs na busca de materiais\n- Melhorias na interface do usuário\n- Otimização de dados\n- Versão corrigida no Package.wxs",
-  "mandatory": false,
-  "minVersionToUpdate": "0.0.0",
-  "fileName": "SmartPlasticSetup.msi"
+﻿{
+    "fileSize":  95.36,
+    "version":  "1.3.1",
+    "isCritical":  false,
+    "downloadUrl":  "https://github.com/Henriquerdasilva/SmartPlastic-Updates/releases/download/v1.3.1/SmartPlasticSetup.exe",
+    "checksum":  "0B079C325F60ED6C1324788FD4C1EA27CB39523395C8D8C088E95861B0577A13",
+    "releaseDate":  "2026-02-01",
+    "requirements":  {
+                         "database":  "PostgreSQL 12+",
+                         "os":  "Windows 64-bit",
+                         "dotnet":  ".NET 9"
+                     },
+    "changelog":  {
+                      "pt":  "Corrigido erro de Reflection que impedia abrir editor de Ordem de Produção",
+                      "en":  "Fixed Reflection error that prevented opening Production Order editor",
+                      "es":  "Corregido error de Reflection que impedía abrir el editor de Orden de Producción"
+                  }
 }
