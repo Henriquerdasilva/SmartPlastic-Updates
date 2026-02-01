@@ -1,6 +1,6 @@
 ﻿{
     "released":  "2026-02-01",
-    "sha256":  "DC334A7B3907D2F38D43EE677C0C33C07AF362B696FAED6D212928F92BF44BEF",
+    "sha256":  "28E11E16568DE97E65F6032E57380A24C18FD1B8350B549C5532AE0D5200D113",
     "changes":  [
                     "Corrigido erro de Reflection no editor de Ordem de Produção",
                     "Resolvido erro \u0027Non-static method requires a target\u0027",
