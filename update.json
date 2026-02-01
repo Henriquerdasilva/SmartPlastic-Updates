@@ -1,9 +1,9 @@
 ﻿{
-    "fileSize":  95.36,
+    "fileSize":  95,
     "version":  "1.3.1",
     "isCritical":  false,
     "downloadUrl":  "https://github.com/Henriquerdasilva/SmartPlastic-Updates/releases/download/v1.3.1/SmartPlasticSetup.exe",
-    "checksum":  "0B079C325F60ED6C1324788FD4C1EA27CB39523395C8D8C088E95861B0577A13",
+    "checksum":  "F3F2D48EDB11FA455DA3FF5AFF59FC186643737C6A42F299463BFC9992F02F2B",
     "releaseDate":  "2026-02-01",
     "requirements":  {
                          "database":  "PostgreSQL 12+",
