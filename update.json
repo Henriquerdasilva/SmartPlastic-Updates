@@ -2,7 +2,7 @@
     "downloadUrl":  "https://github.com/Henriquerdasilva/SmartPlastic-Updates/releases/download/v1.3.1/SmartPlasticSetup.exe",
     "fileName":  "SmartPlasticSetup.exe",
     "mandatory":  false,
-    "version":  "1.3.1",
+    "version":  "1.1.1",
     "minVersionToUpdate":  "0.0.0",
     "releaseDate":  "2026-02-01T12:32:39Z",
     "sha256":  "D8AB2DD41760F1526DE2E2775C6084D70A156126EA5D77459FFBF3FFD73C74A9",
